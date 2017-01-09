@@ -1,0 +1,7 @@
+Data Crawling with python
+Library : BeautifulSoup
+
+requirements:
+$ pip install BeautifulSoup
+$ pip install requests
+$ pip install simplejson
